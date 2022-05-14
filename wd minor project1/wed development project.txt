@@ -1,0 +1,25 @@
+making a responsive web page for web development project. The project is refernced from my institutional official website.
+
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -|
+  
+-- the navbar :
+ it includes -- logo of the institute.
+                   -- helpline no.  
+                   -- search bar
+	         -- menu containing :
+		-home
+		- about us
+		- programmes
+		- facilites
+		- contact us	include registration page.
+
+-- the carousel :
+it include -- Multiple slides with images/text.
+	      -- Arrow navigation.
+
+
+-- Website should have headings, sub headings , paragraphs, list items and hyperlinks to an other pages.
+
+-- User Bootstrap Responsive grid to get responsive designing.
+
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -|
